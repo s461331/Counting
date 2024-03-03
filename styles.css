@@ -1,0 +1,20 @@
+body{
+    background-color: #F5E8DD;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont;
+    font-size: 2rem;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{
+    margin-top: 50vh;
+    height: 100px;
+    width: 200px;
+    border-radius: 10%;
+    color: #7469B6;
+    background-color: #344955;
+}
