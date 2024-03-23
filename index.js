@@ -2,8 +2,6 @@ document.addEventListener("keypress",function(event){
     countdigit(event.key)
 });
 
-document.getElementById("myBtn").addEventListener("click", displayDate);
-
 var Count = 0;
 document.querySelector("h1").innerHTML="Count :- "+Count;
 
